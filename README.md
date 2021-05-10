@@ -1,8 +1,6 @@
 ## Description
-this repository is for designing final Assignment of Intro to Artificial Inteligence course at SUT
+This repository is for providing the mid-term solution of the Introduction to Artificial Intelligence course of the spring 2021 semester at SUT.
 ## Members
 - AmirHossein Ameli
-- Amirmahdi Namjoo
-- Parham Saremi
 ## Lecturers
-- Dr.Mahdie Soleymani
+- Dr. Mohammadhossein Rohban
